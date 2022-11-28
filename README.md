@@ -19,8 +19,8 @@
 
 ## Projetos:
 
-- [Estudo de Caso Cyclistic](https://htmlpreview.github.io/?https://github.com/gustavogcunha/cyclistic_capstone/blob/main/Cyclistic_Capstone.html)
-- [Estudo de Caso Bellabeat](https://htmlpreview.github.io/?https://github.com/gustavogcunha/bellabeat_capstone/blob/main/Bellabeat_Capstone.html)
+- [Estudo de Caso Cyclistic](https://github.com/gustavogcunha/cyclistic_capstone/)
+- [Estudo de Caso Bellabeat](https://github.com/gustavogcunha/bellabeat_capstone/)
 
 ## Ferramentas e Tecnologias:
 
